@@ -2,7 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: Email:&nbsp;jfangak \[at\] connect \[dot\] ust \[dot\] hk # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: > 
+  <p>
+    "Email: jfangak \[at\] connect \[dot\] ust \[dot\] hk"
+  </p>
 
 profile:
   align: right
@@ -17,6 +20,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
 
 This is Jingzhi Fang, a fifth-year Ph.D. student in Computer Science and Engineering (CSE) at the Hong Kong University of Science and Technology (HKUST), under the supervision of Prof. Lei Chen.
 Before that, I received my bachelor's degree from SHENYUAN Honors College at Beihang University (BUAA). 
