@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p> Email:&nbsp jfangak \[at\] connect \[dot\] ust \[dot\] hk </p> # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Email:&nbsp;jfangak \[at\] connect \[dot\] ust \[dot\] hk # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
