@@ -6,7 +6,7 @@ subtitle: >
   <p>
     <strong>Email</strong>: jfangak [at] connect [dot] ust [dot] hk
   </p>
-  <p> [<strong>CV</strong>](https://github.com/puddingfjz/puddingfjz.github.io/blob/master/assets/pdf/Jingzhi_CV.pdf) </p>
+  <p> <a href='https://github.com/puddingfjz/puddingfjz.github.io/blob/master/assets/pdf/Jingzhi_CV.pdf'><strong>CV</strong></a> </p>
   
 
 profile:
