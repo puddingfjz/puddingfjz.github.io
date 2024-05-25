@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I build this page.
+I build this page. :smile:
