@@ -18,7 +18,7 @@ profile:
     <p></p>
 
 news: false # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
@@ -26,7 +26,8 @@ social: false # includes social icons at the bottom of the page
 This is Jingzhi Fang, a fifth-year Ph.D. candidate in Computer Science and Engineering (CSE) at the Hong Kong University of Science and Technology (HKUST), under the supervision of Prof. Lei Chen.
 Before that, I received my bachelor's degree from SHENYUAN Honors College at Beihang University (BUAA). 
 
-I am interested in accelerating the inference efficiency of deep learning models. My current work focuses on improving the efficiency of large language models (LLMs).
+I am interested in accelerating the inference efficiency of deep learning models through computation graph and operator optimization, resource allocation, etc. 
+My current work focuses on improving the efficiency of large language models (LLMs).
 
 
 [^_^]: # (Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.)
