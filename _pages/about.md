@@ -4,8 +4,9 @@ title: about
 permalink: /
 subtitle: > 
   <p>
-    Email: jfangak [at] connect [dot] ust [dot] hk
+    <strong>Email</strong>: jfangak [at] connect [dot] ust [dot] hk
   </p>
+  
 
 profile:
   align: right
