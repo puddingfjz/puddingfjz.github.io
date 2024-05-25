@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle: > 
   <p>
-    "Email: jfangak \[at\] connect \[dot\] ust \[dot\] hk"
+    Email: jfangak [at] connect [dot] ust [dot] hk
   </p>
 
 profile:
