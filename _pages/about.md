@@ -6,6 +6,7 @@ subtitle: >
   <p>
     <strong>Email</strong>: jfangak [at] connect [dot] ust [dot] hk
   </p>
+  <p> [<strong>CV</strong>](https://github.com/puddingfjz/puddingfjz.github.io/blob/master/assets/pdf/example_pdf.pdf) </p>
   
 
 profile:
