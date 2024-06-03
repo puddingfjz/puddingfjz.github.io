@@ -30,6 +30,12 @@ Before that, I received my bachelor's degree from SHENYUAN Honors College at Bei
 I am interested in accelerating the inference efficiency of deep learning models through computation graph and operator optimization, resource allocation, etc. 
 My current work focuses on improving the efficiency of large language models (LLMs).
 
+<h2>Earlier Projects</h2>
+<ul>
+<li><a href="https://github.com/STile-project/STile">STile</a>: Optimizing Sparse Operators in Deep Learning, built upon SparseTIR, Apache TVM.</li>
+</ul>
+
+
 
 [^_^]: # (Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.)
 
