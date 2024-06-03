@@ -32,7 +32,7 @@ My current work focuses on improving the efficiency of large language models (LL
 
 <h2>Earlier Projects</h2>
 <ul>
-<li><a href="https://github.com/STile-project/STile">STile</a>: Optimizing Sparse Operators in Deep Learning, built upon SparseTIR, Apache TVM.</li>
+<li><a href="https://github.com/STile-project/STile">STile</a>: Searching Hybrid Sparse Formats for Sparse Deep Learning Operators Automatically, built upon SparseTIR, Apache TVM.</li>
 </ul>
 
 
