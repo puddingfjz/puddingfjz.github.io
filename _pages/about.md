@@ -24,7 +24,8 @@ social: false # includes social icons at the bottom of the page
 ---
 
 
-This is Jingzhi Fang, a fifth-year Ph.D. candidate in Computer Science and Engineering (CSE) at the Hong Kong University of Science and Technology (HKUST), under the supervision of Prof. Lei Chen.
+This is Jingzhi Fang, a post-doctoral fellow in Prof. Xiaofang Zhou's group in the Department of Computer Science and Engineering at the Hong Kong University of Science and Technology (HKUST). 
+I obtained my doctorate in Computer Science and Engineering (CSE) from HKUST under the supervision of Prof. Lei Chen.
 Before that, I received my bachelor's degree from SHENYUAN Honors College at Beihang University (BUAA). 
 
 I am interested in accelerating the inference efficiency of deep learning models through computation graph and operator optimization, resource allocation, etc. 
